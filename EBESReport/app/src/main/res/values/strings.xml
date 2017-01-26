@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">EBESReport</string>
+
+    <string name="MAIN_TITLE_HOME">Relatório de Comissionamento</string>
+    <string name="NEXT_BUTTON_HOME">Iniciar</string>
+
+    <string name="NEXT_BUTTON">Próximo</string>
+
+    <string name="MAIN_TITLE_CLIENT">CLIENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

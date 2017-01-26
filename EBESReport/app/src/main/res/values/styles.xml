@@ -11,8 +11,29 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="SplashTheme" parent="AppTheme">
-        <item name="android:windowBackground">@drawable/splash_background</item>
+    <style name="ActionBarTitle">
+        <item name="android:textSize">@dimen/text_size_actionbar_title</item>
+        <item name="android:textColor">@color/textLight</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ActionBarSubtitle" parent="ActionBarTitle">
+        <item name="android:textSize">@dimen/text_size_actionbar_subtitle</item>
+    </style>
+
+    <style name="TextFieldTitle">
+        <item name="android:textSize">@dimen/text_size_field_title</item>
+        <item name="android:textColor">@color/textDark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">@dimen/space_5dp</item>
+    </style>
+
+    <style name="TextField">
+        <item name="android:textSize">@dimen/text_size_field</item>
+        <item name="android:textColor">@color/textDark</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">@dimen/field_padding_bottom</item>
     </style>
 
 </resources>

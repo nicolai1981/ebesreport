@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="orange">#F37021</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="textLight">#FFFFFF</color>
+    <color name="textDark">#000000</color>
+
     <color name="splash_background">#3F51B5</color>
 
     <color name="colorPrimary">#3F51B5</color>
